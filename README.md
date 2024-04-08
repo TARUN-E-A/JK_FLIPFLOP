@@ -20,6 +20,7 @@ STEP:5 Select the run simulation and then run Behavioral Simulation in the Sourc
 STEP:6 Click the simulation to simulate the program and give the inputs and verify the outputs as per the truth table.
 
 STEP:7 compare the output with truth table.
+## JK FLIP FLOP:
 ![image](https://github.com/RESMIRNAIR/JK_FLIPFLOP/assets/154305926/094e9d55-5f30-4984-90b9-dd51d5297974)
 ## Circuit Diagram
 ![image](https://github.com/RESMIRNAIR/JK_FLIPFLOP/assets/154305926/5b973ee8-9ee2-402d-8cba-1adfa2e4d5f2)
